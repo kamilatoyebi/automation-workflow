@@ -12,7 +12,10 @@ These workflows show how I experiment with **local AI hosting, bots, and product
 - **How it works:**  
   1. A Set node stores the user prompt.  
   2. An HTTP Request sends the prompt to `http://localhost:1234/v1/chat/completions`.  
-  3. The response is captured back into n8n.  
+  3. The response is captured back into n8n.
+  ## Workflow Screenshot
+Here’s what the workflow looks like inside n8n:
+![AI Playground Workflow](./screenshots/ai-playground.png)
 
 - **Features:**  
   - Fully offline, no API costs.  

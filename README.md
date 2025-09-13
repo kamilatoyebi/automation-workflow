@@ -16,6 +16,12 @@ These workflows show how I experiment with **local AI hosting, bots, and product
   ## Workflow Screenshot
 Here’s what the workflow looks like inside n8n:
 ![AI Playground Workflow](./screenshots/ai-playground.png)
+## Workflow Screenshots
+
+Here’s a look at the automation inside n8n:
+<p align="center">
+  <img src="./screenshots/Screenshot%202025-09-11%20010925.png" width="
+
 
 - **Features:**  
   - Fully offline, no API costs.  

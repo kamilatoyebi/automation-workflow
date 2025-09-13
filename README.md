@@ -19,9 +19,12 @@ Here’s what the workflow looks like inside n8n:
 ## Workflow Screenshots
 
 Here’s a look at the automation inside n8n:
-<p align="center">
-  <img src="./screenshots/Screenshot%202025-09-11%20010925.png" width="
 
+<p align="center">
+  <img src="./screenshots/Screenshot%202025-09-11%20010925.png" width="30%" />
+  <img src="./screenshots/Screenshot%202025-09-11%20010948.png" width="30%" />
+  <img src="./screenshots/Screenshot%202025-09-11%20011011.png" width="30%" />
+</p>
 
 - **Features:**  
   - Fully offline, no API costs.  
